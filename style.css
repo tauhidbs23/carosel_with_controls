@@ -1,7 +1,8 @@
 
 .carousel {
   position: absolute !important;
-  left: 70px;
-  bottom: 100px;
+  left: 600px;
+  top: 100px;
+  /* bottom: 00px; */
 }
   
