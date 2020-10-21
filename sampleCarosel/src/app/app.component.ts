@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sampleCarosel';
+  bookData2 ={
+    book:{
+      bookDealImages:{
+        imglink:'oiisjoidfjsdoif'
+      }
+    }
+  }
+
+
 }
